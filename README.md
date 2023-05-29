@@ -12,10 +12,10 @@ The project features the following mechanics:
     Clothing with varying defense levels
     ![plot](png/Gear.png)
     Weapons:
-        Melee attack
-        Firearms
-        Throwable weapons (fragmentation grenades and smoke grenades)
-        ![plot](png/Weapon.png)
+    Melee attack
+    Firearms
+    Throwable weapons (fragmentation grenades and smoke grenades)
+    ![plot](png/Weapon.png)
         
 The project is designed with multiplayer gameplay in mind.
     

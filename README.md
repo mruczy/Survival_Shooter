@@ -4,11 +4,11 @@ Showcase of an FPS Game with Survival Elements
 
 The project features the following mechanics:
     Inventory System:
-        Player's inventory
-        ![plot](png/Eq.png)
-        Randomized loot crates 
-        ![plot](png/LootableChest.png)
-        Points with random weapons
+    Player's inventory
+    ![plot](png/Eq.png)
+    Randomized loot crates 
+    ![plot](png/LootableChest.png)
+    Points with random weapons
     Clothing with varying defense levels
     ![plot](png/Gear.png)
     Weapons:

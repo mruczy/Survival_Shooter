@@ -14,7 +14,8 @@ The project features the following mechanics:
     Melee attack, 
     Firearms, 
     Throwable weapons (fragmentation grenades and smoke grenades)
-    ![plot](png/Weapon.png)
+    ![plot](png/Weapon1.png)
+    ![plot](png/Weapon2.png)
         
 The project is designed with multiplayer gameplay in mind.
     

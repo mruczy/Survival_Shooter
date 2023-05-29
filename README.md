@@ -12,8 +12,8 @@ The project features the following mechanics:
     Clothing with varying defense levels
     ![plot](png/Gear.png)
     Weapons:
-    Melee attack
-    Firearms
+    Melee attack, 
+    Firearms, 
     Throwable weapons (fragmentation grenades and smoke grenades)
     ![plot](png/Weapon.png)
         

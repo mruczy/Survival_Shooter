@@ -18,4 +18,8 @@ The project features the following mechanics:
         
 The project is designed with multiplayer gameplay in mind.
     
- 
+ Bugs:
+    - Strange Weapon Animation Behavior
+    - Issue with Finding Starting Locations for 2 or More Players
+    
+    
